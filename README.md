@@ -1,7 +1,7 @@
-## Lifts
+# Lifts
 To complete this please fork from this git repository and each question should be treated as a feature branch. Remember to add in some unit tests to randomize the input.
 
-# Question 1
+## Question 1
 There are two lifts in a building with a single controller at the bottom floor (Sorry people at the top floor)
 This single controller checks which lift is the closest and notifies it to come down to the ground floor.
 The following output needs to be displayed:
@@ -11,7 +11,7 @@ The following output needs to be displayed:
 2022-04-11 21:21:00 – Lift #2 moving
 2022-04-11 21:21:00 – Lift #2 arrived
 
-# Question 2
+## Question 2
 After multiple complaints from people the company decided to add in a controller on each level.
 Implement the new logic, remember the controller now has an up or down button.
 Output changes to:
@@ -21,7 +21,7 @@ Output changes to:
 2022-04-11 21:21:00 – Lift #1 moving
 2022-04-11 21:21:00 – Lift #1 arrived on Floor 3
 
-# Question 3
+## Question 3
 The company expanded their staff and are now in need of more lifts. 
 Implement the changes so that more than 2 lifts can be used (Future proof it to any amount)
 Output stays the same.
