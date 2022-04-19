@@ -20,8 +20,11 @@ Implement the new logic, remember the controller now has an up or down button.
 Output changes to:
 
 2022-04-11 21:21:00 - Button Pressed “Down” on Floor 3
+<br />
 2022-04-11 21:21:00 - Lift #1 selected on Floor 2
+<br />
 2022-04-11 21:21:00 – Lift #1 moving
+<br />
 2022-04-11 21:21:00 – Lift #1 arrived on Floor 3
 
 ## Question 3
