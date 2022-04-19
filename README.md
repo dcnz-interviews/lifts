@@ -7,8 +7,11 @@ This single controller checks which lift is the closest and notifies it to come 
 The following output needs to be displayed:
 
 2022-04-11 21:21:00 - Button Pressed “Up”
+<br />
 2022-04-11 21:21:00 - Lift #2 selected
+<br />
 2022-04-11 21:21:00 – Lift #2 moving
+<br />
 2022-04-11 21:21:00 – Lift #2 arrived
 
 ## Question 2
