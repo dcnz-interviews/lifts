@@ -1,5 +1,5 @@
 # Lifts
-Here at Datacom we work with all kinds of customer problems on a day to day basis. 
+Here at Datacom we work with all kinds of customer problems on a daily basis. 
 <br />
 These can range from search algorithms on shopping applications to complex scalable systems with multiple databases and integration points. 
 <br />
