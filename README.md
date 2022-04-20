@@ -13,8 +13,10 @@ Remember to add in some unit tests to randomize the input.
 
 ## Getting started
 Create yourself a github account if you don't have one already. 
+<br />
 Create a new repository called Lifts.
-Fork from this repository and push all your commits to your newly created repo.
+<br />
+Fork from this repository and start using your new repo.
 
 ## Question 1
 There are two lifts in a building with a single controller at the bottom floor (Sorry people at the top floor)
