@@ -2,6 +2,7 @@
 Welcome to our technical challenge.
 Here at Datacom we work with all kinds of customer problems on a day to day basis. 
 These can range from search algorithms on shopping applications to full-blown systems. 
+<br />
 Hopefully this challenge sparks some of that passion we share for solving problems and future proofing for the next colleague that comes along. 
 To complete this please fork from this git repository and treat each question as a feature branch, you can merge them back into main once you've completed each of them. 
 <br />
