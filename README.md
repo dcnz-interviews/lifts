@@ -1,12 +1,20 @@
 # Lifts
 Welcome to our technical challenge.
+<br />
 Here at Datacom we work with all kinds of customer problems on a day to day basis. 
+<br />
 These can range from search algorithms on shopping applications to full-blown systems. 
 <br />
 Hopefully this challenge sparks some of that passion we share for solving problems and future proofing for the next colleague that comes along. 
+<br />
 To complete this please fork from this git repository and treat each question as a feature branch, you can merge them back into main once you've completed each of them. 
 <br />
 Remember to add in some unit tests to randomize the input.
+
+## Getting started
+Create yourself a github account if you don't have one already. 
+Create a new repository called Lifts.
+Fork from this repository and push all your commits to your newly created repo.
 
 ## Question 1
 There are two lifts in a building with a single controller at the bottom floor (Sorry people at the top floor)
@@ -38,19 +46,6 @@ Output changes to:
 The company expanded their staff and are now in need of more lifts. 
 Implement the changes so that more than 2 lifts can be used (Future proof it to any amount)
 Output stays the same.
-
-## Getting started
-
-
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
 
 ## Support
 TODO
