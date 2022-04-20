@@ -37,6 +37,8 @@ Some tweaks need to be made to ensure the following:
 1.) Lifts that are currently busy aren't notified and selected (Thread.Sleep is fine).
 <br />
 2.)  We need to be a bit more green so lifts above the level of the controller need to be prioritised.
+<br />
+Output stays the same where relevant
 
 ## Support
 TODO
