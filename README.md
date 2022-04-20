@@ -1,9 +1,11 @@
 # Lifts
 Here at Datacom we work with all kinds of customer problems on a day to day basis. 
 <br />
-These can range from search algorithms on shopping applications to full-blown systems. 
+These can range from search algorithms on shopping applications to full-blown scalable systems with multiple databases and integration points. 
 <br />
-Hopefully this challenge sparks some of that passion we share for solving problems and future proofing for the next colleague that comes along. 
+For this challenge we don't want you to spend an entire week coding away at a maybe. Please plan and structure it carefully and you'll find it to be easy.
+<br />
+Hopefully this sparks some of that passion we share for solving problems and future proofing for the next colleague that comes along. 
 <br />
 To complete this please fork from this git repository and treat each question as a feature branch, you can merge them back into main once you've completed each of them. 
 <br />
