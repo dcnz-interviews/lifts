@@ -19,35 +19,24 @@ Create a new repository called Lifts.
 Fork from this repository and start using your new repo.
 
 ## Question 1
-There are two lifts in a building with a single controller at the bottom floor (Sorry people at the top floor)
-This single controller checks which lift is the closest and notifies it to come down to the ground floor.
+There are multiple lifts in a building with a controller on each level of the building
+The controller invokes an API and the server calculates the closest lift and notifies that lift to move to the selected floor.  
 The following output needs to be displayed:
 
-2022-04-11 21:21:00 - Button Pressed “Up”
+2022-04-11 21:21:00 - Button Pressed on Floor 3
 <br />
-2022-04-11 21:21:00 - Lift #2 selected
+2022-04-11 21:21:00 - Lift #2 selected on Floor 2
 <br />
-2022-04-11 21:21:00 – Lift #2 moving
+2022-04-11 21:21:00 – Lift #2 notified
 <br />
-2022-04-11 21:21:00 – Lift #2 arrived
+2022-04-11 21:21:00 – Lift #2 arrived on Floor 3
 
 ## Question 2
-After multiple complaints from people the company decided to add in a controller on each level.
-Implement the new logic, remember the controller now has an up or down button.
-Output changes to:
-
-2022-04-11 21:21:00 - Button Pressed “Down” on Floor 3
+Some tweaks need to be made to ensure the following:
 <br />
-2022-04-11 21:21:00 - Lift #1 selected on Floor 2
+1.) Lifts that are currently busy aren't notified and selected (Thread.Sleep is fine).
 <br />
-2022-04-11 21:21:00 – Lift #1 moving
-<br />
-2022-04-11 21:21:00 – Lift #1 arrived on Floor 3
-
-## Question 3
-The company expanded their staff and are now in need of more lifts. 
-Implement the changes so that more than 2 lifts can be used (Future proof it to any amount)
-Output stays the same.
+2.)  We need to be a bit more green so lifts above the level of the controller need to be prioritised.
 
 ## Support
 TODO
