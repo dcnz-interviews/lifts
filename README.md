@@ -1,7 +1,7 @@
 # Lifts
 Here at Datacom we work with all kinds of customer problems on a day to day basis. 
 <br />
-These can range from search algorithms on shopping applications to full-blown scalable systems with multiple databases and integration points. 
+These can range from search algorithms on shopping applications to complex scalable systems with multiple databases and integration points. 
 <br />
 For this challenge we don't want you to spend an entire week coding away at a maybe. Please plan and structure it carefully and you'll find it to be easy.
 <br />
