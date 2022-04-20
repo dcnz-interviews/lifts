@@ -1,6 +1,4 @@
 # Lifts
-Welcome to our technical challenge.
-<br />
 Here at Datacom we work with all kinds of customer problems on a day to day basis. 
 <br />
 These can range from search algorithms on shopping applications to full-blown systems. 
