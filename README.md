@@ -3,7 +3,7 @@ Here at Datacom we work with all kinds of customer problems on a day to day basi
 <br />
 These can range from search algorithms on shopping applications to complex scalable systems with multiple databases and integration points. 
 <br />
-For this challenge we don't want you to spend an entire week coding away at a maybe. Please plan and structure it carefully and you'll find it to be easy.
+For this challenge we don't want you to spend an entire week coding away at a maybe. Please select the desired design pattern, plan carefully and you'll find it to be easy.
 <br />
 Hopefully this sparks some of that passion we share for solving problems and future proofing for the next colleague that comes along. 
 <br />
