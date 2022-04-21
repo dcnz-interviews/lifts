@@ -25,15 +25,15 @@ Using .NET Core create an API and server side logic that does the calculations a
 <br />
 {
     <br />
-    "lift": {
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"lift": {
         <br />
-        "number": int,
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    "number": int,
         <br />
-        "floor": int,
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    "floor": int,
         <br />
-        "dateTime": dateTime
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    "dateTime": dateTime
         <br />
-    }
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
     <br />
 }
 
