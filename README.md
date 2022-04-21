@@ -21,11 +21,14 @@ Fork from this repository and start using your new repo.
 ## Part 1
 There are multiple lifts in a building with a controller on each level of the building
 The controller invokes an API and the server calculates the closest lift and notifies that lift to move to the selected floor.  
-Using .NET Core create an API and server side logic that does the calculations and returns the following:
+Using .NET Core create an API and server side logic that does the calculations and returns the following model:
 <br />
-{
-    "":
-}
+selectedLift:
+    number: int,
+    floor: int,
+    dateTime: dateTime
+    
+
 
 2022-04-11 21:21:00 - Button Pressed on Floor 3
 <br />
