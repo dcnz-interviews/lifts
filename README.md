@@ -37,15 +37,6 @@ Using .NET Core create an API and server side logic that does the calculations a
     <br />
 }
 
-
-2022-04-11 21:21:00 - Button Pressed on Floor 3
-<br />
-2022-04-11 21:21:00 - Lift #2 selected on Floor 2
-<br />
-2022-04-11 21:21:00 – Lift #2 notified
-<br />
-2022-04-11 21:21:00 – Lift #2 arrived on Floor 3
-
 ## Part 2
 Some tweaks need to be made to ensure the following:
 <br />
