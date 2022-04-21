@@ -24,11 +24,17 @@ The controller invokes an API and the server calculates the closest lift and not
 Using .NET Core create an API and server side logic that does the calculations and returns the following model:
 <br />
 {
+    <br />
     "lift": {
+        <br />
         "number": int,
+        <br />
         "floor": int,
+        <br />
         "dateTime": dateTime
+        <br />
     }
+    <br />
 }
 
 
