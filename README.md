@@ -1,7 +1,7 @@
 # Lifts
 Here at Datacom we work with all kinds of customer problems on a daily basis. 
 <br />
-These can range from search algorithms on shopping apps to complex scalable systems with multiple databases and integration points. 
+These can range from a search algorithm for a shopping app to complex scalable systems with multiple databases and integration points. 
 <br />
 For this challenge we don't want you to spend an entire week coding away. Please select the desired pattern, plan carefully and you'll find it to be easy.
 <br />
@@ -9,7 +9,10 @@ Hopefully this sparks some of that passion we share for solving problems and fut
 <br />
 To complete this please fork from this git repository and treat each part as a feature branch, you can merge them back into main once you've completed each of them. 
 <br />
-Remember to add in some unit tests to randomize the input.
+<br />
+Optional - Unit tests to randomize the input.
+<br />
+Mandatory - Swagger
 
 ## Getting started
 Create yourself a github account if you don't have one already. 
@@ -21,7 +24,7 @@ Fork from this repository and start using your new repo.
 ## Part 1
 There are multiple lifts in a building with a controller on each level of the building
 The controller invokes an API and the server calculates the closest lift and notifies that lift to move to the selected floor.  
-Using .NET Core create an API and server side logic that does the calculations and returns the following model:
+Using .NET Core create an API and server side logic that does the calculations and returns the selected lift in the following model:
 <br />
 {
     <br />
