@@ -1,13 +1,7 @@
 # Lifts
-Here at Datacom we work with all kinds of customer problems on a daily basis. 
+Lifts / Elevators are one of the main reasons we are capable of having multistoried buildings within many cities and residential areas. Without them we would have to walk up and down countless stairs every day or have designed our buildings to be only a few stories high. Meaning we save much more space and effort by having them around. Not to mention small children, elderly - and differently abled people benefit greatly from something so simple. 
 <br />
-These can range from a search algorithm for a shopping app to complex scalable systems with multiple databases and integration points. 
-<br />
-For this challenge we don't want you to spend an entire week coding away. Please select the desired pattern, plan carefully and you'll find it to be easy.
-<br />
-Hopefully this sparks some of that passion we share for solving problems and future proofing for the next colleague that comes along. 
-<br />
-To complete this please fork from this git repository and treat each part as a feature branch, you can merge them back into main once you've completed each of them. 
+For this challenge we'd like you to design and implement a simple lift system. A lift would be your entity and a controller (Button pannel next to the lift) would be the client calling the server to calculate which lift needs to come down or go up to it. There could be multiple lifts in a building as well as a single controller on each floor. 
 <br />
 <br />
 <b>Optional</b> - Unit tests to randomize the input.
@@ -22,9 +16,7 @@ Create a new repository called Lifts.
 Fork from this repository and start using your new repo.
 
 ## Part 1
-There are multiple lifts in a building with a controller on each level of the building
-The controller invokes an API and the server calculates the closest lift and notifies that lift to move to the selected floor.  
-Using .NET Core create an API and server side logic that does the calculations and returns the selected lift in the following model:
+Using .NET Core create an API that takes in the controller's floor position and server side logic that does the calculations and returns the selected lift in the following model:
 <br />
 {
     <br />
@@ -43,7 +35,7 @@ Using .NET Core create an API and server side logic that does the calculations a
 ## Part 2
 Some tweaks need to be made to ensure the following:
 <br />
-1.) Lifts that are currently busy aren't notified and selected (Thread.Sleep is fine).
+1.) Lifts that are currently busy aren't notified and selected (Thread.Sleep on the moving ones is fine).
 <br />
 2.)  We need to be a bit more green so lifts above the level of the controller need to be prioritised.
 <br />
