@@ -1,12 +1,12 @@
 # Lifts
 Lifts / Elevators are one of the main reasons we are capable of having multistoried buildings within many cities and residential areas. Without them we would have to walk up and down countless stairs every day or have designed our buildings to be only a few stories high. Meaning we save much more space and effort by having them around. Not to mention small children, elderly - and differently abled people benefit greatly from something so simple. 
 <br />
-For this challenge we'd like you to design and implement a simple lift system. A lift would be your entity and a controller (Button pannel next to the lift) would be the client calling the server to calculate which lift needs to come down or go up to it. There could be multiple lifts in a building as well as a single controller on each floor. 
+For this challenge we'd like you to design and implement a simple lift system. A lift would be your entity and a controller (Button pannel next to the lift) would be the client calling the server to calculate which lift needs to come down or go up to it. There could be multiple lifts in a building and a single controller on each floor. 
 <br />
 <br />
 <b>Optional</b> - Unit tests to randomize the input.
 <br />
-<b>Mandatory</b> - Swagger
+<b>Mandatory</b> - Swagger UI
 
 ## Getting started
 Create yourself a github account if you don't have one already. 
