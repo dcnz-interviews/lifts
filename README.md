@@ -10,9 +10,9 @@ Hopefully this sparks some of that passion we share for solving problems and fut
 To complete this please fork from this git repository and treat each part as a feature branch, you can merge them back into main once you've completed each of them. 
 <br />
 <br />
-Optional - Unit tests to randomize the input.
+<b>Optional</b> - Unit tests to randomize the input.
 <br />
-Mandatory - Swagger
+<b>Mandatory</b> - Swagger
 
 ## Getting started
 Create yourself a github account if you don't have one already. 
