@@ -1,7 +1,7 @@
 # Lifts
-Lifts / Elevators are one of the main reasons we are capable of having multistoried buildings within many cities and residential areas. Without them we would have to walk up and down countless stairs every day or have designed our buildings to be only a few stories high. Meaning we save much more space and effort by having them around. Not to mention small children, elderly - and differently abled people benefit greatly from something so simple. 
+Lifts / Elevators are one of the main reasons we are capable of having multistorey buildings within many cities and residential areas. Without them we would have to walk up and down countless stairs every day or have designed our buildings to be only a few stories high. Meaning we save much more space and effort by having them around. Not to mention small children, elderly - and differently abled people benefit greatly from something so simple. 
 <br />
-For this challenge we'd like you to design and implement a simple lift system. A lift would be your entity and a controller (Button pannel next to the lift) would be the client calling the server to calculate which lift needs to come down or go up to it. There could be multiple lifts in a building and a single controller on each floor. 
+For this challenge we'd like you to design and implement a simple lift system. A lift would be your entity and a controller (Button panel next to the lift) would be the client calling the server to calculate which lift needs to come down or go up to it. There could be multiple lifts in a building and a single controller on each floor. 
 <br />
 <br />
 <b>Optional</b> - Unit tests to randomize the input.
@@ -37,7 +37,7 @@ Some tweaks need to be made to ensure the following:
 <br />
 1.) Lifts that are currently busy aren't selected (Thread.Sleep on the moving ones is fine).
 <br />
-2.)  We need to be a bit more green so lifts above the level of the controller need to be prioritised.
+2.)  We need to be a bit greener, so lifts above the level of the controller need to be prioritised.
 <br />
 Output stays the same where relevant
 <br />
