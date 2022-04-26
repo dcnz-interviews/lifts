@@ -15,6 +15,8 @@ Create yourself a github account if you don't have one already.
 Create a new repository called Lifts.
 <br />
 Fork from this repository and start using your new repo.
+<br />
+Each part needs to be done within a separate feature branch.
 
 ## Part 1
 Using .NET Core create an API that takes in the controller's floor position and server side logic that does the calculations and returns the selected lift in the following model:
