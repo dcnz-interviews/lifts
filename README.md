@@ -35,7 +35,7 @@ Using .NET Core create an API that takes in the controller's floor position and 
 ## Part 2
 Some tweaks need to be made to ensure the following:
 <br />
-1.) Lifts that are currently busy aren't selected (Thread.Sleep on the moving ones is fine).
+1.) Lifts that are currently busy aren't selected (Thread.Sleep on the moving ones is fine and it moves at 5 seconds per floor).
 <br />
 2.)  We need to be a bit greener, so lifts above the level of the controller need to be prioritised.
 <br />
